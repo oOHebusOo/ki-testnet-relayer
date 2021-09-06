@@ -67,7 +67,7 @@ use faucet of different chain for send some token
 <br>rly chains edit akash-testnet-6 key testkey
 <br>rly chains edit cosmoshub-testnet key testkey
   
-#Initialyze light client
+# Initialyze light client
 <br>rly light init kichain-t-4 -f
 <br>rly light init cosmoshub-testnet -f
 <br>rly light init akash-testnet-6 -f

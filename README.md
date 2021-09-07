@@ -77,8 +77,8 @@ use faucet of different chain for send some token
 <br>rly paths generate kichain-t-4 akash-testnet-6 transfer2 --port=transfer
   
 # Create channel connection and client 
-rly tx link transfer -d -o 3s
-rly tx link transfer2 -d -o 3s
+<br>rly tx link transfer -d -o 3s
+<br>rly tx link transfer2 -d -o 3s
   
 # Ready to send some token
 
